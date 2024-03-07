@@ -4,12 +4,15 @@ The Repository is bulit on March 7th,2024.
 Function:As a history to record my lesson at Computer Sci.and Teah ,emmmm-->and my love things!
 -------------------
 Language: 
-
+-----------
 C NUll
-Java  Test1 
+-------
+Java/Test1
+-------
 Python  Null
+-------
 R Null ----study it from my old major,E.E.E.
-
+-------
 -------------------
 Other Things…………Let me write it when I remember them. ahhh
 -------------------
