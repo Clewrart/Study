@@ -1,11 +1,11 @@
-My Github Library named Study_code_CS22_SWFU
-
+My Github Library named Study_code_CS22_SWFU.
 The Repository is bulit on March 7th,2024.
 Function:As a history to record my lesson at Computer Sci.and Teah ,emmmm-->and my love things!
--------------------
-Language: 
------------
-C NUll
+
+----------
+
+--------
+C Null
 -------
 Java/Test1
 -------
